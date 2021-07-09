@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7c74cff84284c99a56fa895ef0e756, type: 3}
+  m_Name: CallOfVoid
+  m_EditorClassIdentifier: 
+  name: Call Of Void
+  rarity: 5
+  type: 0
+  holdRotaion: 135
+  timeBtwShots: 1
+  chargeTime: 0
+  damage: 0
+  crit: 0
+  mana: 0
+  bulletsEachShot: 0
+  timesEachShot: 0
+  delayTime: 0.25
+  artwork: {fileID: 2981500106361242687, guid: b66f594135f1f4f64bf69b3315ef9b2b, type: 3}
+  shootAniCtrl: {fileID: 22100000, guid: 215e1c914ae064d46a60222bbd5d3a45, type: 2}
+  bulletType: {fileID: 590465524292154857, guid: e52753dbf90164681b21d3b02fa6b75d,
+    type: 3}

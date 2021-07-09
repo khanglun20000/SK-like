@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arrow
+  - DroppedWeapon
+  - CurrentWeapon
+  - SecondaryWeapon
+  - Block
+  - Tile
+  - Void
+  - VoidArrow
+  - NearestWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - whatIsBullet
+  - whatIsPlayer
+  - whatIsD_wp
+  - Map
+  - WallBody
+  - WallFace
+  - whatIsEnemy
+  - whatIsHit
+  - DoorTrigger
+  - whatIsEnemyBullet
+  - destroyableBlock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

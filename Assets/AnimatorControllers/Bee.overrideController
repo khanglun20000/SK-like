@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bee
+  m_Controller: {fileID: 9100000, guid: f72cc61c1bed440f6976cb5020bdc346, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: d094cdbf1e0d34354badfe0db7f55872, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48940fe6359564b11b9426db27274700, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 05419913d3319495ca1368426d0875f9, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 48940fe6359564b11b9426db27274700, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fdcb115cb40eb4af8bd41e16ba22a649, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 449196028888b4c5fbc6c18b64d9ae14, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c9b7cad49e0674c98b6386a0d6870cf5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89dc7ddcd9bfd45278eb0ee1e46965c0, type: 2}

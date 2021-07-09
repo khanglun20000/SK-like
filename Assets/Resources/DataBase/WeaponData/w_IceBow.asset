@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea7c74cff84284c99a56fa895ef0e756, type: 3}
+  m_Name: w_IceBow
+  m_EditorClassIdentifier: 
+  name: Ice Bow
+  rarity: 2
+  type: 0
+  cbStyle: 0
+  holdRotaion: 135
+  timeBtwShots: 1.5
+  chargeTime: 0
+  damage: 10
+  crit: 35
+  mana: 3
+  bulletsEachShot: 1
+  timesEachShot: 1
+  intervalBtwTimes: 0.5
+  delayTime: 0.25
+  artwork: {fileID: -6471608932071960271, guid: 4b3a1746aae04446e9cfdc0e884e8119,
+    type: 3}
+  display: {fileID: -6471608932071960271, guid: 4b3a1746aae04446e9cfdc0e884e8119,
+    type: 3}
+  shootAniCtrl: {fileID: 22100000, guid: 3abcd91c93da1493d87ed242b7a81556, type: 2}
+  bulletType: {fileID: 2865066110859168705, guid: c93c78b539e0c421183121e520902c58,
+    type: 3}
